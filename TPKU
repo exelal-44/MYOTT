@@ -346,12 +346,12 @@ https://xyzdddd.mizhls.ru/lb/premium123/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium126/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Football UK
+#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png" group-title="SPORTS",Sky Sport Football UK
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium35/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Premier League
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hXJ9L1p/skyspepl.jpg" group-title="SPORTS",Sky Sport Premier League
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium130/index.m3u8
