@@ -97,13 +97,13 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 tvg-logo="https://contentcdn.visionplus.id/crop/300/plain/https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png" group-title="TV DIGITAL", NET TV
 https://cdngb196.indihometv.com/joss/133/net/chunklist_w1149028430_b1244100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg",SCTV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="TV DIGITAL",SCTV
 https://cdnbpp1.indihometv.com/atm/hlsv3/sctv/sctv.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6_ilo1sVpgPuKNo0D1xeHwZNVw0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg",Indosiar
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6_ilo1sVpgPuKNo0D1xeHwZNVw0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="TV DIGITAL",Indosiar
 https://cdnbpp1.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_1500000=5-mp4a_96000=2.m3u8?encp=&uid=&expp=
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Iqs6mheIjesM4cUEh_dUVIdV0jU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg", MENTARI TV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Iqs6mheIjesM4cUEh_dUVIdV0jU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="TV DIGITAL", MENTARI TV
 https://cdnbpp1.indihometv.com/joss/134/mentaritv/index.m3u8?c
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -311,6 +311,7 @@ https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd
 https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1hkLps/PL-Logo-by-premierleague.jpg" group-title="SPORTS",ARENA SPORT PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
